@@ -101,7 +101,7 @@ a {
 
 #skills-h3 {
   color: #f5ae23;
-  display: none;
+  display: visible;
 }
 
 .orange {
@@ -160,7 +160,7 @@ ul {
   float: left;
   padding: 10px;
   width: 200px;
-  display: none;
+  display: visible;
 }
 
 img {
@@ -197,7 +197,7 @@ span {
     width: 150px;
   }
   .welcome-message {
-    display: none;
+    display: visible;
   }
 }
 
